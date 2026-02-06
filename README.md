@@ -37,7 +37,7 @@ No requiere instalación. Simplemente:
 
 ```bash
 # Clona o descarga el archivo
-# Abre discord-text-converter.html en tu navegador
+# Abre index.html en tu navegador
 ```
 
 O también puedes:
